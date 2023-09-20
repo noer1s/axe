@@ -121,9 +121,9 @@ by er1s with love
 	pred_info_by = colored("Беларусь ", "cyan")+colored(by_s, "green")+"\n"
 	pred_info = pred_info+pred_info_ru+pred_info_by
 
-	info = " "*13+colored("[", "blue")+"Developers :"+colored("rizza", "green")+" and "+colored("LostIk", "red")
+	info = " "*13+colored("[", "blue")+"Developers :"+colored("er1s", "green")+" and "+colored("er1sdev.exe", "red")
 	info_2 = " "*13+colored("[", "blue")+"Version    :"+colored(ver, "red")
-	info_3 = " "*13+colored("[", "blue")+"Telegram   :"+colored("@orionbomber", "cyan")+colored("   <--", "green")
+	info_3 = " "*13+colored("[", "blue")+"Telegram   :"+colored("@xternoblade", "cyan")+colored("   <--", "green")
 	info_4 = "\n"+" "*12+colored("Программа больше не поддерживается!", "red")+"\n"
 
 	print(banner)
